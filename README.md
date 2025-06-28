@@ -22,3 +22,4 @@ Você pode executar este modelo diretamente no navegador via Google Colab. Link 
 ## Licença
 
 MIT License
+<!-- Atualização para disparar snapshot no Zenodo -->
